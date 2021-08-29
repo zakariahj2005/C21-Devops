@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-01
-
 ## Installatie Visual Studio Code
 
 **LETOP: ook als je VS Code al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
@@ -27,12 +25,12 @@ Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor
 ## Opdracht
 
 1. Ga naar [code.visualstudio.com](https://code.visualstudio.com/) en download en installeer de versie voor jouw besturingssysteem. 
-2. Start VS Code op. Open een nieuw bestand via `File > New File` of <kbd>CTRL</kbd>+<kbd>N</kbd> en sla deze op als `taak01.txt` in een OneDrive map. 
-3. Upload het bestand bij de opdracht in Canvas.
+2. Start VS Code op. Open een nieuw bestand via `File > New File` of <kbd>CTRL</kbd>+<kbd>N</kbd> en sla deze op als `taak01.txt` in een willekeurige map binnen je OneDrive map.
+3. Upload `taak01.txt` bij deze opdracht in Canvas om de opdracht in te leveren.
 
 ## Eindresultaat
 
-Een bestand genaamd `taak01.txt` in een OneDrive map.
+Een bestand genaamd `taak01.txt` in een willekeurige map binnen je OneDrive map.
 
 ## Bronnen
 

@@ -22,7 +22,7 @@ Als het goed is heb je Git al geïnstalleerd en werkend op je laptop en daarnaas
 
 1. bekijk de onderstaande videos
    
-    > In deze video wordt veel informatie over Git gegeven. Het geeft niet als je niet alles meteen begrijpt of onthoudt. In de komende taken richten we ons op de meest belangrijke onderdelen van Git en krijg je daar Nederlandse uitleg over.
+    > In deze video wordt veel informatie over Git gegeven. Het geeft niet als je niet alles meteen begrijpt of onthoudt. In de komende taken richten we ons op de meest belangrijke onderdelen van Git en krijg je daar verder uitleg over.
 
     [![Video - Wat is Version-Control](img/screenshot-youtube-what-is-git.jpg)](https://www.youtube.com/watch?v=9GKpbI1siow)
 

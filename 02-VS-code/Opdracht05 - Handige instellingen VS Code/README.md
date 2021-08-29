@@ -27,6 +27,7 @@ Je kunt alle instellingen en acties in VS Code uitvoeren door deze te selecteren
 1. Open settings in VS Code en gebruik de filter om de instellingen voor het veranderen van je cursor te vinden. Verander de Cursor-Blinking-setting van Blink naar Smooth.
 2. Verander het Thema voor VS Code door het Command-Palette te openen en te filteren op Theme en dan te kiezen voor Preferences: Color Theme. Gebruikt <kbd>&darr;</kbd> en <kbd>&uarr;</kbd> om een Theme te selecteren. Selecteer er eentje die jij prettig vindt.
 3. Als je aan het programmeren bent wil je het bestand waar je in werkt vaak opslaan, zodat je nooit werk verliest. Je kunt dit doen door telkens uit de Menubalk te kiezen voor `File > Save` of de sneltoets <kbd>CTRL</kbd>+<kbd>S</kbd> te gebruiken maar VS Code heeft ook een **auto save** feature. Zoek deze en zet hem aan.
+4. Maak een screenshot van je volledige VS Code window (met het door jouw gekozen thema) en lever deze in bij deze opdracht in Canvas
 
 ## Eindresultaat
 

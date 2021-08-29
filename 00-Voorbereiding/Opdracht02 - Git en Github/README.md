@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-02
-
 ## Git & Github
 
 **LETOP: ook als je Git al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
@@ -14,14 +12,14 @@ Wel is het belangrijk dat je goed weet hoe wat het verschil is tussen Git en Git
 
 > DUS: Git is de software, Github is de dienst.
 
-Github is een online dienst waarmee je samen kan werken aan het ontwikkelen van software. De code die schrijft en lokaal op jouw laptop wordt opgeslagen kun je synchroniseren met Github. Zo kan een docent meekijken naar het werk dat je voor jouw opleiding doet maar is het straks als je op zoek gaat naar een stageplek of aan de slag gaat als ontwikkelaar na je opleiding ook een plek waar zij kunnen zien wat je allemaal hebt gedaan op qua software ontwikkeling.
+**Github** is een online dienst waarmee je samen kan werken aan het ontwikkelen van software. De code die schrijft en lokaal op jouw laptop wordt opgeslagen kun je synchroniseren met Github. Zo kan een docent meekijken naar het werk dat je voor jouw opleiding doet maar is het straks als je op zoek gaat naar een stageplek of aan de slag gaat als ontwikkelaar na je opleiding ook een plek waar zij kunnen zien wat je allemaal hebt gedaan op qua software ontwikkeling.
 
 Opvolgende taken in deze module maken je wegwijs in de werking van Git en Github maar voor nu gaan we beginnen met het installeren van Git, wat instellingen doen en een account aanmaken op Github.
 
 ## Leerdoelen
 
 1. Ik heb Git geinstalleerd en werkend binnen VS Code.
-2. Ik heb een account aangemakt op Github.
+2. Ik kan een account aanmaken op Github en inloggen.
 
 ## Opdracht
 
@@ -50,21 +48,16 @@ Opvolgende taken in deze module maken je wegwijs in de werking van Git en Github
    > Punt 1: Kies een representatieve naam. Deze naam gaat gezien worden door de mensen die straks beslissen of jij een stageplek of baan krijgt, kies bij voorkeur een accountnaam die bestaat uit je voornaam en achternaam.  
 
    > Punt 2: gebruik je voornaam.achternaam@student.rocva.nl mail account om je aan te melden. 
-4. Copy/paste je Github account naam bij het inleveren van deze opdracht in Canvas.
+4. Kopieer en plak je Github gebruikersnaam in het tekstveld van deze opdracht binnen Canvas om de opdracht in te leveren. 
 
 ## Eindresultaat
 
-1. Je hebt Git geinstalleerd op je laptop en als je dit test binnen een terminal in VS Code zie je dat als je het `git` als commando uitvoert geen foutmeldingen. 
-2. Als je `git config user.name` en `git config user.email` uitvoert in de terminal in VS Code krijg je respectievelijk jou volledige naam en je ROC schoolmail account te zien.
+1. Je hebt Git geinstalleerd op je laptop en als je dit test binnen een terminal in VS Code zie je dat als je het `git` commando uitvoert geen foutmeldingen. 
+2. Als je `git config user.name` of `git config user.email` uitvoert in de terminal zie je respectievelijk je volledige eigen naam en je ROC email adres in de terminal.
 3. Je hebt een account aangemaakt op Github en je kunt inloggen.
 
 ## Bronnen
 
-[Instellen naam en email in Git](https://linuxize.com/post/how-to-configure-git-username-and-email/)  
-[Github account aanmaken uitleg](https://www.wikihow.com/Create-an-Account-on-GitHub)
+* [Instellen naam en email in Git](https://linuxize.com/post/how-to-configure-git-username-and-email/)  
+* [Github account aanmaken uitleg](https://www.wikihow.com/Create-an-Account-on-GitHub)
 
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:70625497
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->
