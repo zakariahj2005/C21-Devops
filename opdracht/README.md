@@ -58,5 +58,3 @@ Als je deze stappen hebt uitgevoerd heb je de basis workflow te pakken om (eind)
 Je hebt een simpele website stap voor stap aangepast zonder dat je misschien wist wat alles betekent, maar door logisch naar de code te kijken en kleine veranderingen door te voeren. Je hebt elke verandering gecommit met een heldere commit-message (zodat je altijd weer terug kan naar die versie) en uiteindelijk je code gepusht naar Github.
 
 ## Bronnen
-
-  
