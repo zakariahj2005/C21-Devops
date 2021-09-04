@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-02
-
 ## Handige instellingen VS Code
 
 ## Uitleg

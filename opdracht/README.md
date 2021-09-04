@@ -1,5 +1,3 @@
-# DEVOPS-Eindopdracht
-
 ## Eindopdracht Devops
 
 ## Uitleg
@@ -14,7 +12,9 @@ Om aan de slag te kunnen moeten we natuurlijk de code aanpassen in VS Code, maar
 
 ## Leerdoelen
 
-1. Ik kan bestanden openen in VS Code en eventuele veranderingen opslaan, committen en pushen naar Github.
+1. Ik kan bestanden openen in VS Code en eventuele veranderingen opslaan, committen en pushen naar 
+Github.
+2. Ik begrijp de workflow hoe ik opdrachten inlever in Canvas en op Github
 
 ## Opdracht
 
@@ -35,7 +35,22 @@ Om aan de slag te kunnen moeten we natuurlijk de code aanpassen in VS Code, maar
     ```cmd
     git log -n 7 --pretty=oneline
     ```
+## Inleveren opdracht in Canvas
 
+1. Je levert je code in op Github door deze te pushen. Als je dit gedaan hebt moet je ook de URL naar je code op Github in Canvas kopieren, Daarnaast moet je als een opdracht of eindopdracht daarom vraagt ook bepaalde bestanden uploaden in Canvas. 
+
+Om deze eindopdracht goed af te ronden moet je de volgende stappen uitvoeren:
+#### Werk plaatsen op Github
+1. Dit heb je als het goed al gedaan bij deze eindopracht. Bedenk dat je bij elke opdracht waarmee je code aanpast in VS Code je deze ook moet **comitten** én **pushen** voordat de opdracht is ingeleverd.
+
+#### Github URL doorgeven:
+1. Ga naar Github.com (zorg dat je bent ingelogd) en open de repository die bij deze module hoort. Navigeer naar de map waarin de code voor deze opdracht staat. In dit geval zal het formaat er ongeveer zo uitzien:  
+`http://github.com/gebruikersnaam/C21-DEVOPS/opdracht/website`
+2. Copy/paste de juiste URL van je browser naar het invoerveld in Canvas. Hierin is `gebruikersnaam` in bovenstaand voorbeeld vervangen met jouw Github gebruikersnaam.
+#### Bestanden uploaden in Canvas
+1. Upload `index.html` en `style.css` bij deze opdracht in Canvas.
+
+Als je deze stappen hebt uitgevoerd heb je de basis workflow te pakken om (eind)opdrachten goed in te leveren.  
 
 
 ## Eindresultaat

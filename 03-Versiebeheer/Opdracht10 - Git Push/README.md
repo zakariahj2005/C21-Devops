@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-04
-
 ## Git Push
 
 ## Uitleg

@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-05
-
 ## Git Overview
 
 ## Uitleg
@@ -17,17 +15,17 @@ Tot nu toe hebben we alles klaar gezet en even geoefend voor het werken met Canv
 Als je aan het werk bent in Canvas en begint met een nieuwe module, dan zal je vaak de onderstaande stappen doorlopen:
 1. Maak een fork van de module repository (kopie van de Amstelland Github account naar je eigen Github account)
 2. Clone de repository met de starterscode die is aangemaakt onder je eigen Github-account.
-3. Werk aan de taken en eindopdracht binnen VS Code en commit zo vaak mogelijk in je lokale repository
+3. Werk aan de opdrachten en eindopdracht binnen VS Code en commit zo vaak mogelijk in je lokale repository
 4. Ben je klaar met een opdracht? Of ben neem je even pauze? Commit en Push je code naar Github!
 5. Module eindopdracht af? Push je code naar Github en vraag een eindgesprek aan.
 
 ## Leerdoelen
 
-1. Ik ken de workflow voor het werken met Eagle, Git en Github en kan deze toepassen binnen VS Code.
+1. Ik ken de workflow voor het werken met Canvas, Git en Github en kan deze toepassen binnen VS Code.
 
 ## Opdracht
 
-1. Geen opdrachten voor deze taak :) In de eindopdracht gaan we de stappen voor het werken met Eagle, Git en Github nog een keer herhalen maar dan met echte code inplaats van `test.txt`.
+1. Geen opdrachten voor deze opdracht :) In de eindopdracht gaan we de stappen voor het werken met Canvas, Git en Github nog een keer herhalen maar dan met echte code inplaats van `test.txt`.
    
 ## Eindresultaat
 

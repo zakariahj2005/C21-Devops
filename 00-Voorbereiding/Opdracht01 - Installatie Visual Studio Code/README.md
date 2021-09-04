@@ -1,10 +1,10 @@
 ## Installatie Visual Studio Code
 
-**LETOP: ook als je VS Code al hebt geinstalleerd: lees de onderstaande taak goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
+**LETOP: ook als je VS Code al hebt geinstalleerd: lees de onderstaande opdracht goed door en zorg ervoor dat alles werkt zoals verwacht wordt.**
 
 ## Uitleg
 
-In deze taak gaan we **Visual Studio Code** installeren en voor sommigen voor het eerst een nieuw bestand aanmaken en opslaan. [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) is de editor waarin je tijdens jouw opleiding programmeer code schrijft. 
+In deze opdracht gaan we **Visual Studio Code** installeren en voor sommigen voor het eerst een nieuw bestand aanmaken en opslaan. [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) is de editor waarin je tijdens jouw opleiding programmeer code schrijft. 
 
 Microsoft wil graag dat zoveel mogelijk programmeurs software ontwikkelen voor het Windows besturingssysteem. Want hoe meer software er is voor Windows hoe meer mensen daarvan afhankelijk zijn en dus Windows kiezen als besturingsysteem. Het software ecosysteem dat zo ontstaat rondom het Windows *platform* zorgt voor het grootste gedeelte van de inkomsten van Microsoft (in 2019 was dit in totaal meer dan 82 miljard dollar bruto).
 
@@ -14,7 +14,7 @@ Microsoft investeert daarom flink in het aan zichzelf binden van ontwikkelaars d
 > 
 > Microsoft geeft ook een ander product uit dat qua naamgeving heel erg lijkt op Visual Studio Code. Dit product, simpelweg Visual Studio genaamd (zonder het woordje Code dus), is uitgebreider dan Visual Studio Code. Het lijkt op een gewone editor zoals VS Code maar heeft standaard veel meer mogelijkheden. Je noemt dit soort software een **IDE** (Integrated Development Enviroment) oftewel een *Geintergreerde Ontwikkel Omgeving.*  
 
-Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor bijna naar het niveau tillen van een volwaardige IDE. Hiermee gaan we in latere taken aan de slag. 
+Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor bijna naar het niveau tillen van een volwaardige IDE. Hiermee gaan we in latere opdrachten aan de slag. 
 
 ## Leerdoelen
 
@@ -25,12 +25,12 @@ Met behulp van extensions voor VS Code kun je de functionaliteiten van de editor
 ## Opdracht
 
 1. Ga naar [code.visualstudio.com](https://code.visualstudio.com/) en download en installeer de versie voor jouw besturingssysteem. 
-2. Start VS Code op. Open een nieuw bestand via `File > New File` of <kbd>CTRL</kbd>+<kbd>N</kbd> en sla deze op als `taak01.txt` in een willekeurige map binnen je OneDrive map.
-3. Upload `taak01.txt` bij deze opdracht in Canvas om de opdracht in te leveren.
+2. Start VS Code op. Open een nieuw bestand via `File > New File` of <kbd>CTRL</kbd>+<kbd>N</kbd> en sla deze op als `opdracht01.txt` in een willekeurige map binnen je OneDrive map.
+3. Upload `opdracht01.txt` bij deze opdracht in Canvas om de opdracht in te leveren.
 
 ## Eindresultaat
 
-Een bestand genaamd `taak01.txt` in een willekeurige map binnen je OneDrive map.
+Een bestand genaamd `opdracht01.txt` in een willekeurige map binnen je OneDrive map.
 
 ## Bronnen
 

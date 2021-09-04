@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-03
-
 ## Extensies
 
 ## Uitleg

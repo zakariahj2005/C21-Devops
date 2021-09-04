@@ -1,10 +1,8 @@
-# DEVOPS-TAAK-02
-
 ## Git en Repositories
 
 ## Uitleg
 
-In deze taak gaan we leren wat een **Git-Repository** is.
+In deze opdracht gaan we leren wat een **Git-Repository** is.
 
 Je bent misschien al gewend om met bestanden en mappen te werken in Windows of op een Mac. Je kunt Git zien als een laagje daarbovenop dat voor jou het versiebeheer doet. 
 
@@ -37,7 +35,7 @@ Als je een bepaalde versie van de bestanden in een project opslaat in je lokale 
  
 1. Open de map die bij deze module hoort in VS Code. Ga naar het `Source-Control`-paneel door dit te kiezen uit de Activity Bar links of door de sneltoets <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>G</kbd>
 2. In dit paneel zie je alle veranderingen die door Git zijn opgemerkt. Ga terug naar de File-Explorer en maak een nieuw bestand aan in de map `03-versiebeheer/Opdracht08 - Git en Repositories` genaamd `test.txt`.
-3. Check in het Source-Control-paneel of Git dit nieuwe bestand heeft opgemerkt. In de volgende taak gaan we leren hoe je zo'n bestand toevoegt aan de Git-Repository.
+3. Check in het Source-Control-paneel of Git dit nieuwe bestand heeft opgemerkt. In de volgende opdracht gaan we leren hoe je zo'n bestand toevoegt aan de Git-Repository.
 
 ## Eindresultaat
 

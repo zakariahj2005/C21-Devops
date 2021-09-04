@@ -1,5 +1,3 @@
-# DEVOPS-TAAK-01
-
 ## Wat is versiebeheer?
 
 ## Uitleg
@@ -12,7 +10,7 @@ Dit werkt prima als je de enige bent die aan iets werkt en je binnen een enkel b
 
 Dit is natuurlijk een probleem dat elk softwareontwikkelingsteam ervaart en dus zijn er in de loop van tijd verschillende systemen bedacht om hiermee om te gaan. Het versiebeheersysteem dat op dit moment het meest gebruikt wordt is [Git](https://nl.wikipedia.org/wiki/Git_(software)).
 
-Als het goed is heb je Git al geïnstalleerd en werkend op je laptop en daarnaast een Github-account aangemaakt. In volgende taken gaan we oefenen met het inleveren van jouw code op Github.
+Als het goed is heb je Git al geïnstalleerd en werkend op je laptop en daarnaast een Github-account aangemaakt. In volgende opdrachten gaan we oefenen met het inleveren van jouw code op Github.
 
 ## Leerdoelen
 
@@ -22,7 +20,7 @@ Als het goed is heb je Git al geïnstalleerd en werkend op je laptop en daarnaas
 
 1. bekijk de onderstaande videos
    
-    > In deze video wordt veel informatie over Git gegeven. Het geeft niet als je niet alles meteen begrijpt of onthoudt. In de komende taken richten we ons op de meest belangrijke onderdelen van Git en krijg je daar verder uitleg over.
+    > In deze video wordt veel informatie over Git gegeven. Het geeft niet als je niet alles meteen begrijpt of onthoudt. In de komende opdrachten richten we ons op de meest belangrijke onderdelen van Git en krijg je daar verder uitleg over.
 
     [![Video - Wat is Version-Control](img/screenshot-youtube-what-is-git.jpg)](https://www.youtube.com/watch?v=9GKpbI1siow)
 
